@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f4ba9983-1927-4acd-80a0-939d38213876" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gistandard.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gistandard.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gistandard/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/gistandard/settings.py" afterDir="false" />
-    </list>
+    <list default="true" id="f4ba9983-1927-4acd-80a0-939d38213876" name="Default" comment="说明文档更新&amp;更改数据接口为本地sqllite" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,8 +68,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1541388367037</updated>
-      <workItem from="1573805660215" duration="938000" />
+      <workItem from="1573805660215" duration="1302000" />
     </task>
+    <task id="LOCAL-00001" summary="说明文档更新&amp;更改数据接口为本地sqllite">
+      <created>1573806942518</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1573806942518</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,5 +93,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="说明文档更新&amp;更改数据接口为本地sqllite" />
+    <option name="LAST_COMMIT_MESSAGE" value="说明文档更新&amp;更改数据接口为本地sqllite" />
   </component>
 </project>

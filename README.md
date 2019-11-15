@@ -43,7 +43,8 @@ sandbox是一个基于django框架开发的轻量级办公平台，主要模块�
 # 2 开源声明
 对于我来说这套系统是完美的，因为我是根据自己的工作需求亲手打造了它；同时它不是完美的，因为我很业余，它还很小，需要成长，许多功能不够完善，代码逻辑不够清晰。<br>
 自在知乎发布文章一周来，很多人关注sandbox，应大家要求，今天将系统开源，希望能够帮到大家，同时也希望大家能够一起完善它，优化它。
-项目地址：https://github.com/RobbieHan/gistandard
+项目地址：https://github.com/RobbieHan/gistandard, 功能说明文档:
+https://zhuanlan.zhihu.com/p/43054213
 
 # 3 安装说明
 ## 3.1 线上环境部署
